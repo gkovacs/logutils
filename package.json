@@ -1,6 +1,6 @@
 {
   "name": "logutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Various utilities for logging and printing error statuses on console",
   "main": "logutils.js",
   "scripts": {
