@@ -1,3 +1,7 @@
+require! {
+  util
+}
+
 export exit_if_error = (message) ->
   if not message?
     return
