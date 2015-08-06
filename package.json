@@ -1,0 +1,25 @@
+{
+  "name": "logutils",
+  "version": "1.0.0",
+  "description": "Various utilities for logging and printing error statuses on console",
+  "main": "logutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gkovacs/logutils.git"
+  },
+  "keywords": [
+    "error",
+    "status",
+    "console",
+    "log"
+  ],
+  "author": "Geza Kovacs (http://github.com/gkovacs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkovacs/logutils/issues"
+  },
+  "homepage": "https://github.com/gkovacs/logutils"
+}
